@@ -1,5 +1,5 @@
-public const Int32 VMCall = 0x016880C3; //Update
-public const Int32 KeyPointer = 0x01689A34; //Update
-public const Int32 YieldString = 0x01688A23; //Update
-public const Int32 dwTable = 0x016876A3; //Update
+VMCall - 0x016880C3
+KeyPointer - 0x01689A34
+YieldString - 0x01688A23
+dwTable - 0x016876A3
 deluxebrew is indeed on top
