@@ -1,9 +1,9 @@
 
 ------------------------------------------
-VMCall - 0x016880C3
-KeyPointer - 0x01689A34
-YieldString - 0x01688A23
-dwTable - 0x016876A3
+ VMCall: 0x0A0000A8
+ YieldString: 0xD418AC84
+ dwTable: 0xDF200100
+ KeyPointer: 0xC4EF74C7
 ------------------------------------------
 
 deluxebrew is indeed on top
